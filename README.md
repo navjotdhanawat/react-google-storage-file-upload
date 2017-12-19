@@ -19,6 +19,6 @@ React js Google cloud storage file upload using multer, express, nodejs.
 ```
 ### Screens
 
-![Alt text](/blob/master/react-file-upload.png?raw=true "Optional Title")
+![Alt text](/react-file-upload.png?raw=true "Optional Title")
 
 [Follow tutorial for detailed explaination.](http://www.thenextfact.com/?p=607&preview=true)
